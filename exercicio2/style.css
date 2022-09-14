@@ -6,4 +6,7 @@
 main{
   padding-top: 20px;
   display: flex;
+  flex-wrap: wrap;
+  gap: 2vh 5vh; 
+  justify-content: center;
 }
